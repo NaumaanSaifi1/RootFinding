@@ -6,8 +6,6 @@
 #define TOL 0.5e-6
 #define MAXITERATION 10000
 
-//initializing
-
 typedef struct {
     double root;      // Estimated root of the polynomial
     int iterations;    
