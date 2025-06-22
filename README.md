@@ -7,7 +7,7 @@ Each implementation in this repository is clean, modular, and beginner-friendly 
 ## 📌 Features
 
 - Covers a variety of iterative root-finding techniques
-- Easy-to-read Python implementations
+- Easy-to-read C implementations
 - Modular and reusable code structure
 - Ideal for both learning and experimentation
 
